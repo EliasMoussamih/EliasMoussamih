@@ -1,16 +1,30 @@
-### Hi there 👋
+# Welcome to my GitHub 👋
 
-<!--
-**EliasMoussamih/EliasMoussamih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, my name is Elias Moussamih, passionate about application programming and web applications. Welcome to my GitHub space where I share my projects, contributions and experiences.
 
-Here are some ideas to get you started:
+👨‍💻 Currently studing at IUT of Paris-Saclay in BUT Informatique.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- Programming Languages: 
+    - HTML/CSS
+    - JavaScript
+    - SQL
+    - PHP
+    - Python
+    - Java
+    - R
+- Tools and Technologies: 
+    - Markdown 
+    - Visual Studio Code
+    - JetBrains software
+
+## Follow Me
+
+- [LinkedIn](https://www.linkedin.com/in/elias-moussamih-12ba0122b/)
+
+## How to Reach Me
+
+- 💬 [Email](mailto:eliasproffessionnal@gmail.com)
+
+Feel free to explore my projects and provide any feedback. Thanks for visiting my profile!
